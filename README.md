@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hey there! I'm KM Pragati Singh – A Passionate Java Backend Developer from India 🇮🇳</h3>
+<h3 align="left">👋 Hey there! I'm KM Pragati Singh – A Passionate Java Backend Developer from India 🇮🇳</h3> 
 
 ---
 
